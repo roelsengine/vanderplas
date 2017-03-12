@@ -1,0 +1,526 @@
+{
+  "settings": {
+    "name": "Huisarts praktijk dokter van der plas heerlen",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2969b0",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#80e905",
+        "infoColor": "#021446",
+        "warningColor": "#ff8f00",
+        "dangerColor": "#b8312f",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 18,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/snake-icon-medical-128x120.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Huisarts praktijk dokter van der Plas heerlen ",
+        "meta_descr": "Nobelstraat 27, 6411 EK Heerlen, Nederland, Huisarts praktijk Dokter van der Plas heerlen limburg Huisdokter Dokter van der Plas heerlen limburg, Arts Dokter van der Plas heerlen Limburg, huisartsenpost heerlen limburg, Arts heerlen limburg, dokter heerlen limburg, Nightcare heerlen Limburg",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#73c700"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#87eb00!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#90fa00"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8",
+          "_params": {
+            "bgColor": "#90fa00",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/snake-icon-medical-136x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Huisarts praktijk dokter van der plas Heerlen</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:045-5714567\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>+31 (0)45-5714567</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-6\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-e\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-6\" aria-expanded=\"false\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>contact en adres</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD contactgegevens</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/house-m-d-crew-2000x1250.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Huisarts praktijk dokter van der Plas Heerlen",
+                "showText": true,
+                "text": "Even een leuke groepsfoto in de praktijk maken",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:045 - 5778844\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Tel 045-5714567</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\"></span>Aanmelden als nieuwe patient</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#pricing-table1-e\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Openingstijden</a>   "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dokter-huisarts-2000x2000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Huisarts van der Plas heerlen",
+                "showText": true,
+                "text": "Dokter van der plas een jonge frisse kijk op medische dienstverlening",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:\" data-toolbar=\"-mbrBtnMove\">bel 045-</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-1\" data-toolbar=\"-mbrBtnMove\">Aanmelden als nieuwe patient</a>  "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-0",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#89f709",
+            "showMeta": true
+          },
+          "title": "De griep heerst \"haal nu uw griep injectie\"",
+          "meta": "voorbeeld melding"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
+            },
+            ".lead P": {
+              "color": "#232323"
+            },
+            ".lead H4": {
+              "color": "#035dfc",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dokter-huisarts=1-2000x1330.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Meldt u aan als nieuwe patient",
+          "text": "<p>We hebben ons net gevestigd dus wij hebben nog ruimte voor nieuwe aanmeldingen</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tel:045 - 5778844\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Contact&nbsp;tel:045 - 5778844</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>Hier iets over jezelf en door op onderstaand fototje te klikken kun je een foto van jezelf toevoegen</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/house-m-d-crew-2000x1250.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Dokter van der Plas",
+              "authorBio": "Huisarts"
+            },
+            {
+              "text": "<p>Hier iets over jezelf en door op onderstaand fototje te klikken kun je een foto van jezelf toevoegen</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Nicole",
+              "authorBio": "Secretariaat"
+            },
+            {
+              "text": "<p>Hier iets over jezelf en door op onderstaand fototje te klikken kun je een foto van jezelf toevoegen</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Gertie",
+              "authorBio": "Dokters assistent"
+            }
+          ],
+          "_anchor": "testimonials1-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "3",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Ons team",
+          "subtitle": "wij zijn een jong team met enorme drive"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            "UL": {
+              "font-size": "20px"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#efefef",
+              "font-size": "18px",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "bg-primary"
+          },
+          "title": "Bereikbaarheid",
+          "subtitle": "",
+          "label1": "HOT!",
+          "title1": "Maandag en dinsdag",
+          "subtitle1": ".",
+          "currency1": "",
+          "price1": "",
+          "period1": "08:00-17:00",
+          "description1": "1300:1400 pauze",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Bloedprikken 08:00 - 11:00</li><li class=\"list-group-item\">Huisbezoek voor 11:00 aanvragen</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:045 - 5778844\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Bel</a>",
+          "label2": "middag gesloten",
+          "title2": "Woensdag",
+          "subtitle2": ".",
+          "currency2": "",
+          "price2": "",
+          "period2": "08:00-12:00",
+          "description2": ".",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Bloedprikken 08:00 - 11:00</li><li class=\"list-group-item\">Huisbezoek voor 11:00 aanvragen</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:045 - 5778844\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Bel</a>",
+          "label3": "HOT!",
+          "title3": "Donderdag en Vrijdag",
+          "subtitle3": ".",
+          "currency3": "",
+          "price3": "",
+          "period3": "08:00-17:00",
+          "description3": "1300:1400 pauze",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Bloedprikken 08:00 - 11:00</li><li class=\"list-group-item\">Huisbezoek voor 11:00 aanvragen</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"tel:045 - 5778844\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Bel</a>",
+          "label4": "gesloten",
+          "title4": "Zaterdag en Zondag",
+          "subtitle4": ".",
+          "currency4": "",
+          "price4": "",
+          "period4": "Gesloten",
+          "description4": ".&nbsp;",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Huisartsenpost Heerlen</li><li class=\"list-group-item\"><b>045 - 5778844</b></li><br></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"tel:0455778844\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Bel</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfcfa"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Wij houden u op de hoogte",
+          "subtitle": "Meldt u aan voor onze meldingsbrief en u mist niks over uw gezondheid",
+          "form": {
+            "action": "info@hvdph.com",
+            "alerts": {
+              "success": "We houden u op de hoogte!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Voer uw Email Adres in.."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Aanmelden</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Nobelstraat 27, 6411 EK Heerlen",
+              "placeId": "ChIJRV6MTaO9wEcRSbCWT0OVZK4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Adres</strong><br>Nobelstraat 27, 6411 EK Heerlen<br><br><br>\n<strong>Contact</strong><br>\nEmail: info@huisartsvanderplasheerlen.nl<br>\nTel: +31 (0) 45 - 5 714 567<br>\nFax: +31 (0) 45 - 5 742 713",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">v</a>ereniging huisartsen</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">h</a>uisartsenpost heerlen</li><li>Apotheek</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "footer1-5",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 rOels.Engine."
+        }
+      ]
+    }
+  }
+}
