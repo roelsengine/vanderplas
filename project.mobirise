@@ -162,7 +162,7 @@
                 "showText": true,
                 "text": "Even een leuke groepsfoto in de praktijk maken",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:045 - 5778844\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Tel 045-5714567</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\"></span>Aanmelden als nieuwe patient</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#pricing-table1-e\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Openingstijden</a>   "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:045 - 5778844\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Tel 045-5714567</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\"></span>Aanmelden nieuwe patient</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#pricing-table1-e\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Openingstijden</a>   "
               },
               {
                 "active": false,
@@ -177,7 +177,7 @@
                 "showText": true,
                 "text": "Dokter van der plas een jonge frisse kijk op medische dienstverlening",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:\" data-toolbar=\"-mbrBtnMove\">bel 045-</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-1\" data-toolbar=\"-mbrBtnMove\">Aanmelden als nieuwe patient</a>  "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:045-5714567\" data-toolbar=\"-mbrBtnMove\">Tel 045-5714567</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box3-1\" data-toolbar=\"-mbrBtnMove\">Aanmelden als nieuwe patient</a>  "
               }
             ],
             "fullScreen": true,
@@ -311,8 +311,8 @@
           ],
           "_anchor": "testimonials1-a",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "count": "3",
             "showImages": true,
             "showName": true,
@@ -334,7 +334,8 @@
         {
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "36px"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -346,6 +347,9 @@
               "color": "#efefef",
               "font-size": "18px",
               "text-align": "center"
+            },
+            ".mbr-price-term": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -354,12 +358,12 @@
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-e",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "bgColor": "#000a28",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -376,38 +380,38 @@
             "thirdType": "",
             "fourthType": "bg-primary"
           },
-          "title": "Bereikbaarheid",
+          "title": "Openingstijden",
           "subtitle": "",
           "label1": "HOT!",
           "title1": "Maandag en dinsdag",
-          "subtitle1": ".",
+          "subtitle1": "",
           "currency1": "",
           "price1": "",
           "period1": "08:00-17:00",
-          "description1": "1300:1400 pauze",
+          "description1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Bloedprikken 08:00 - 11:00</li><li class=\"list-group-item\">Huisbezoek voor 11:00 aanvragen</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"tel:045 - 5778844\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Bel</a>",
           "label2": "middag gesloten",
           "title2": "Woensdag",
-          "subtitle2": ".",
+          "subtitle2": "",
           "currency2": "",
           "price2": "",
           "period2": "08:00-12:00",
-          "description2": ".",
+          "description2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Bloedprikken 08:00 - 11:00</li><li class=\"list-group-item\">Huisbezoek voor 11:00 aanvragen</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"tel:045 - 5778844\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Bel</a>",
           "label3": "HOT!",
           "title3": "Donderdag en Vrijdag",
-          "subtitle3": ".",
+          "subtitle3": "",
           "currency3": "",
           "price3": "",
           "period3": "08:00-17:00",
-          "description3": "1300:1400 pauze",
+          "description3": "",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Bloedprikken 08:00 - 11:00</li><li class=\"list-group-item\">Huisbezoek voor 11:00 aanvragen</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"tel:045 - 5778844\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Bel</a>",
           "label4": "gesloten",
           "title4": "Zaterdag en Zondag",
-          "subtitle4": ".",
+          "subtitle4": "",
           "currency4": "",
           "price4": "",
           "period4": "Gesloten",
@@ -502,7 +506,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#475577"
+              "color": "#efefef"
             }
           },
           "_anchor": "footer1-5",
